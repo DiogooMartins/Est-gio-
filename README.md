@@ -1,2 +1,2 @@
-# Est-gio-
+# Esta-gio-
 Solução em python
